@@ -1,4 +1,4 @@
-# Zuha Kaleem's Assignmetnt 1
+# Zuha Kaleem's Assignment 1
 This is a guide to help you run my assignment. 
 
 ## Getting Started 
@@ -7,6 +7,9 @@ This is a guide to help you run my assignment.
 1. Click the green **Code** button and switch to the **Codespaces** tab.  
 2. Select **Create Codespace**.
 3. Wait a few minutes for the environment to finish setting up.
+
+### Add you API key
+1. Run the following in terminal: export API_KEY="your_actual_API_KEY"
 
 ### Step 2: Install requirements
 1. Run the following in terminal: pip install -r requirements.txt
